@@ -1,4 +1,4 @@
- local a = debug
+local a = debug
 local b = debug.sethook
 local c = debug.getinfo
 local d = debug.traceback
